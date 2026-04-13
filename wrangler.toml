@@ -7,4 +7,4 @@ keep_vars = true
 
 #[[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "优选ip"				#KV数据库id
+id = ""				#KV数据库id
